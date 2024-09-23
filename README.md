@@ -1,1 +1,1 @@
-# CircleFollowCursor
+# CircleFollowCursor yes
